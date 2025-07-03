@@ -1,10 +1,10 @@
 # DEEP-LEARNING_ANN
 The file "DEEP LEARNING_ANN" that demonstrates the structure and functioning of an Artificial Neural Network (ANN) using backpropagation.
 
-📄 Project Overview
+📄 Project Overview:
 This project demonstrates the implementation of an Artificial Neural Network (ANN) using backpropagation for supervised learning tasks. It explores how ANN can learn complex relationships in data using forward and backward propagation mechanisms.
 
-📚 Contents
+📚 Contents:
 The HTML notebook includes the following:
 
 - ✅ Introduction to Artificial Neural Networks
@@ -23,7 +23,7 @@ The HTML notebook includes the following:
 
 - 📊 Model accuracy and evaluation
 
-🧠 Key Concepts
+🧠 Key Concepts:
 1. Artificial Neural Network (ANN)
 A computational model inspired by the structure of the human brain, used for tasks like classification and regression.
 
@@ -39,12 +39,12 @@ Updates weights using the gradient of the loss to minimize error.
 5. Learning Rate
 Controls how much weights are adjusted during training.
 
-🛠️ Tools & Libraries
+🛠️ Tools & Libraries:
 - Python
 - Numpy
 - Matplotlib
 
-  📈 Output & Results
+📈 Output & Results:
 - Visualization of training loss (if available)
 - Trained weights and bias values
 - Final output predictions
